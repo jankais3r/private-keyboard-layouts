@@ -1,12 +1,12 @@
-Αntі-fоrеnsісs & аntі-trасkіng kеуbоаrd lауоut + lауоut аdјustіng sсrірt. Privacy through obscurity.
+Αntі-fоrеnsісs & аntі-trасkіng kеуbоаrd lауоuts + lауоut аdјustіng sсrірt. Privacy through obscurity.
 
 
 # What is this?
-[Unicode](http://www.unicode.org/faq/basic_q.html) is complicated. The result is that there are multiple ways to encode certain characters. These are then identical to the human eye, but completely different to the computer that is rendering them on the screen or processing them in any way. This repository contains modified US keyboard layout for macOS and Windows that lets you type in this special mode. Nothing you type using this keyboard layout will make sense to language processing algorithms. I am also providing a Python script that let's you create your own layout if you prefer using something other than US layout.
+[Unicode](http://www.unicode.org/faq/basic_q.html) is complicated. The result is that there are multiple ways to encode certain glyphs (e.g. letters). These are then identical to the human eye, but completely different to the computer that is rendering them on the screen or processing them in any way. This repository contains modified US keyboard layout for macOS and Windows that lets you type in this special mode. Nothing you type using this keyboard layout will make sense to language processing algorithms. I am also providing a Python script that let's you create your own layout if you prefer using something other than the US layout.
 
 
 # What is the purpose?
-Almost everything we type these days ends up being analyzed and is ultimately used against us. Your emails hosted by Google, Microsoft or almost all other free-mail providers? Analyzed. Your Facebook messages? Analyzed. Private communication should be private. By using these modified keyboard layouts that utilize characters lооkіng identical to latin letters while bеіng completely different characters, you make it much more difficult for 3rd parties to make sense of what you type.
+Almost everything we type these days ends up being analyzed and is ultimately used against оur іntеrеsts. Your emails hosted by Google, Microsoft or almost all other free-mail providers? Analyzed. Your Facebook messages? Analyzed. Private communication should be private. By using these modified keyboard layouts that utilize glурhs lооkіng identical to latin letters while bеіng completely different characters, you make it much more difficult for 3rd parties to make sense of what you type.
 
 
 # Who came up with this idea?
@@ -43,8 +43,8 @@ I got inspired to make these after I stumbled upon [Dystextia](https://eclecticl
 4) Name your keyboard, select the base layout, then set the Language and Bundle properties
 5) Go to File > Save…, and save it as Keyboard Layout Bundle
 6) Run the Python script provided in this repo
-7) Move the аdјustеd .bundlе fіlе to `~/Library/Keyboard Layouts/`
+7) Move the аdјustеd .bundlе fоldеr to `~/Library/Keyboard Layouts/`
 8) Reboot the machine
 
 
-Hit me up at [@jankaiser](https://twitter.com/jankais3r) if you have any questions. I'll do my best to answer them.
+Hit me up at [@jankais3r](https://twitter.com/jankais3r/status/1145691943667736577) if you have any questions. I'll do my best to answer them.
