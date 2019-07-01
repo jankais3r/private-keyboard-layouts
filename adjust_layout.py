@@ -5,8 +5,8 @@ import sys
 
 if len(sys.argv) < 2:
 	print 'You need to provide a path to the layout file.'
-	print 'on Windows: python process.py US-Private.klc'
-	print 'on macOS: python process.py US-Private.bundle/Contents/Resources/US-Private.keylayout'
+	print 'on Windows: python adjust_layout.py US-Private.klc'
+	print 'on macOS: python adjust_layout.py US-Private.bundle/Contents/Resources/US-Private.keylayout'
 	sys.exit()
 
 filename = sys.argv[1]
