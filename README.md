@@ -1,5 +1,6 @@
 Αntі-fоrеnsісs & аntі-trасkіng kеуbоаrd lауоuts + lауоut аdјustіng sсrірt. Privacy through obscurity.
 
+[Video demonstration](https://twitter.com/jankais3r/status/1145691943667736577)
 
 # What is this?
 [Unicode](http://www.unicode.org/faq/basic_q.html) is complicated. The result is that there are multiple ways to encode certain glyphs (e.g. letters). These are then identical to the human eye, but completely different to the computer that is rendering them on the screen or processing them in any way. This repository contains modified US keyboard layout for macOS and Windows that lets you type in this special mode. Nothing you type using this keyboard layout will make sense to language processing algorithms. I am also providing a Python script that let's you create your own layout if you prefer using something other than the US layout.
